@@ -1,7 +1,10 @@
 {
   "cSpell.words": [
     "dotenv",
-    "langchain"
+    "fastapi",
+    "langchain",
+    "langserve",
+    "uvicorn"
   ],
   "editor.formatOnSave": true,
 }
