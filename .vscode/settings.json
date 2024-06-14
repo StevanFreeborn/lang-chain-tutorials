@@ -2,5 +2,6 @@
   "cSpell.words": [
     "dotenv",
     "langchain"
-  ]
+  ],
+  "editor.formatOnSave": true,
 }
